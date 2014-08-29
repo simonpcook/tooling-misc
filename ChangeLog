@@ -1,0 +1,3 @@
+2014-08-29  Simon Cook  <simon@simoncook.org>
+
+	* dejaproperties.py: Add dejagnu to properties script.
